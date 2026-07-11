@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="4lBcPgV5tf7Fs4l4JAQk">
+    <mxGraphModel dx="1807" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="gotzZL1FSdqF6NAJcWw6-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-120" y="530" as="sourcePoint" />
+            <mxPoint x="770" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="80" width="150" x="747.5" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="gotzZL1FSdqF6NAJcWw6-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="530" as="sourcePoint" />
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-8" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=5;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="690" as="sourcePoint" />
+            <mxPoint x="650" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-10" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="gotzZL1FSdqF6NAJcWw6-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+            <mxPoint x="230" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-13" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=1.12;indent=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gotzZL1FSdqF6NAJcWw6-14" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=100;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Frequent security Incident on campus" vertex="1">
+          <mxGeometry height="25" width="165" x="747.5" y="517.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Student" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="- Negligence&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="110" x="430" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Cult activity&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="110" x="430" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Drug abuse&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="110" x="430" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Poor security awareness&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="160" x="410" y="467.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Environment&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Bushy surroundings" vertex="1">
+          <mxGeometry height="27.5" width="160" x="420" y="542.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Isolated pathway" vertex="1">
+          <mxGeometry height="30" width="160" x="410" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Poor street lightening&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="200" x="400" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Dark parking areas" vertex="1">
+          <mxGeometry height="30" width="200" x="370" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Technology&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="140" x="80" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; No online reporting system&amp;nbsp;" vertex="1">
+          <mxGeometry height="32.5" width="230" x="-20" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Poor internet connectivity&amp;nbsp;" vertex="1">
+          <mxGeometry height="32.5" width="230" x="-30" y="472.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; No emergency alert system&amp;nbsp;" vertex="1">
+          <mxGeometry height="32.5" width="230" x="-50" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Management&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="140" x="130" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; inadequate security personnel" vertex="1">
+          <mxGeometry height="47.5" width="230" y="542.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Slow response to emergency" vertex="1">
+          <mxGeometry height="47.5" width="230" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="LpnkdayT_dW-IJLUsidG-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="-&amp;nbsp; Poor security policies" vertex="1">
+          <mxGeometry height="30" width="230" x="-30" y="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
